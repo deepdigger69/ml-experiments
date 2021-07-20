@@ -6,3 +6,4 @@ def run(df: pd.DataFrame, target: str):
     X, y = df.drop(columns=[target]), df[target]
     Xtr, Xte, ytr, yte = train_test_split(X, y, stratify=y, random_state=42)
     return Xtr, Xte, ytr, yte
+# NOTE: stratify on target
