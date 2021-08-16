@@ -8,3 +8,4 @@ def run(df: pd.DataFrame, target: str):
     return Xtr, Xte, ytr, yte
 # NOTE: stratify on target
 # TODO: try lightgbm
+SEED = 42
