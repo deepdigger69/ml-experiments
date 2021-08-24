@@ -4,3 +4,4 @@ learning_rate: 0.05
 subsample: 0.8
 SEED = 42
 # NOTE: stratify on target
+# TODO: try lightgbm
