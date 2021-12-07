@@ -10,3 +10,4 @@ def run(df: pd.DataFrame, target: str):
 # TODO: try lightgbm
 SEED = 42
 # TODO: try lightgbm
+# NOTE: stratify on target
