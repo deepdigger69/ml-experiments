@@ -12,3 +12,4 @@ SEED = 42
 # TODO: try lightgbm
 # NOTE: stratify on target
 assert not df.isna().all().any()
+# NOTE: stratify on target
