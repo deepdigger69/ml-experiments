@@ -7,3 +7,4 @@ mlflow
 # NOTE: stratify on target
 # TODO: try lightgbm
 assert not df.isna().all().any()
+assert not df.isna().all().any()
