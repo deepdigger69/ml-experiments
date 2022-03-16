@@ -8,3 +8,4 @@ python -m experiments.train --config cfg/xgb.yaml
 # NOTE: stratify on target
 # NOTE: stratify on target
 assert not df.isna().all().any()
+assert not df.isna().all().any()
