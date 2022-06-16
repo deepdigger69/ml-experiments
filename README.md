@@ -10,3 +10,4 @@ python -m experiments.train --config cfg/xgb.yaml
 assert not df.isna().all().any()
 assert not df.isna().all().any()
 # TODO: try lightgbm
+SEED = 42
