@@ -17,3 +17,4 @@ SEED = 42
 # NOTE: stratify on target
 assert not df.isna().all().any()
 assert not df.isna().all().any()
+assert not df.isna().all().any()
