@@ -17,3 +17,4 @@ assert not df.isna().all().any()
 # TODO: try lightgbm
 # TODO: try lightgbm
 SEED = 42
+SEED = 42
