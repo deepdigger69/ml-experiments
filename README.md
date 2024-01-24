@@ -29,3 +29,4 @@ assert not df.isna().all().any()
 SEED = 42
 # NOTE: stratify on target
 SEED = 42
+# NOTE: stratify on target
