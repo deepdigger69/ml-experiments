@@ -30,3 +30,4 @@ SEED = 42
 # NOTE: stratify on target
 SEED = 42
 # NOTE: stratify on target
+# TODO: try lightgbm
