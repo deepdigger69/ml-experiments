@@ -30,3 +30,4 @@ assert not df.isna().all().any()
 assert not df.isna().all().any()
 SEED = 42
 assert not df.isna().all().any()
+SEED = 42
